@@ -1,0 +1,44 @@
+Buen día
+
+Esta es mi realización de la prueba técnica.
+
+Creada en laravel v8
+Jetstream 
+Blade
+Jquery
+Bootstrap
+
+Para su uso:
+
+Opción 1) Usar script SQL
+
+Users: Gustavo: 1193144775 , Pedro: 1193144777
+Pass: Prueba123
+
+Opción 2) Deberá ejecutar las migraciones y registrarse
+
+
+
+-------------------------------------------------------------> 
+
+Para crear las cuentas puede usar la ruta:
+
+/api/accounts
+
+Esta ejecutará una cuenta automática para el usuario logeado (cabe aclarar que se hizo de esta manera para mostrarlo 
+ya que a un usuario no se le podría dar la posibilidad de crear cuentas a su amaño) o en su defecto puede crear las cuentas  desde la DB
+
+Para consultar las cuentas asociadas al usuario puede usar:
+
+/api/accounts/list
+
+Para la navegación deberá usar:
+
+/dasboard
+/transactions
+/transactions/new
+
+Y ejecutar las pruebas necesarias
+
+Buen día!
+
